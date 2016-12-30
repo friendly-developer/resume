@@ -1,0 +1,55 @@
+{
+	"bio": {
+		"name": "Varun G",
+		"role": "Web Develpoer",
+		"email": "gvsvarun@gmail.com",
+		"contacts": {
+			"mobile": "9176192599",
+			"email": "gvsvarun@gmail.com",
+			"github": "gvsvarun",
+			"twitter": "@gvsvarun",
+			"location": "Chennai"
+		},
+		"welcomeMessage": "Heyy Hi!",
+		"skills": ["gaming", "coding", "sleeping"],
+		"biopic": "images/bio_pic.jpg"
+	},
+	"projects": {
+		"projects": [{
+			"title": "Sample Project 1",
+			"dates": "2016",
+			"description": "Lorem Ipsum",
+			"images": ["images/fry.jpg"]
+		}]
+	},
+	"work": {
+		"jobs": [{
+			"employer": "Tata Consultancy Services",
+			"title": "Systems Engineer",
+			"dates": "September 2013 - Current",
+			"description": "Front End Develpoer",
+			"location": "Chennai, India"
+		}]
+	},
+	"education": {
+		"schools": [{
+			"name": "GITAM University",
+			"location": "Visakhapatnam, India",
+			"degree": "Bachelors",
+			"majors": ["Bio-Technology"],
+			"dates": "2009 - 2013",
+			"url": "https://www.gitam.edu"
+		}],
+		"onlineCourses": [{
+			"title": "IPND",
+			"school": "Udacity",
+			"dates": "July 2016 - September 2016",
+			"url": "https://www.udacity.com"
+		},{
+			"title": "FEND",
+			"school": "Udacity",
+			"dates": "Dec 2016 - Dec 2016",
+			"url": "https://www.udacity.com"
+		}]
+	}
+}
