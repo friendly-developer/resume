@@ -6,7 +6,7 @@ Developed with mobile-first perspective
 
 
 ## Concepts Implemented:
-* *HTML Canvas*
+* *HTML 5*
 * *Object Oriented Javascript*
 * BootStrap
 
